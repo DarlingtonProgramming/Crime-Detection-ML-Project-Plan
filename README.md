@@ -7,6 +7,10 @@ This is a project proposal for the Leadership Ventures ML Project developed by D
 
 Machine-Learning Project, Computer Vision Project   
 
+### Market Research
+
+There is apparently no mature commercial product that uses cameras to automatically detect a crime scene and reports it to the police department. For now, the common way for police deparments to get informed about a crime scene is by recieving calls from 911, but it is proven to be not so efficient. During a crime scene, a victim might not be able to call the law enforcement department due to the fact that the law-breaker is taking control. Thus it is really important to have a collection of automatic crime detection devices that are cheap and do not need human engagement. As you can see from our extended objectives, we wanted to design a system that put connected devices into use and automatically detects, reports the crime scene to law enforcement departments. 
+
 ### Project Description
 
 This is basically a project that by using pre-trained artificial intelligence models to enable automatic detection of a crime scene. The project is able to read frames form a input camera source (or just simply an input source) and tell if the frame involves a potential law-breaking action.   
